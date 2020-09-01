@@ -1,3 +1,14 @@
+# custom
+*.vcxproj*
+Debug
+build
+Win32
+*.dir
+assets
+CMakeFiles
+*.sln
+*.vs
+
 # Prerequisites
 *.d
 
